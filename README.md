@@ -1,4 +1,4 @@
-# [Simple but smart SLIDER 2](https://lebryere.github.io/simple_but_smart_slider_2/)
+# [Simple but smart SLIDER 2](https://https://lebryere.github.io/Simple_but_smart_Slider_3/)
 
 ## Browser Support
 
@@ -8,9 +8,9 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/LeBryere/simple_but_smart_slider_2/blob/master/preview.jpg)](https://lebryere.github.io/simple_but_smart_slider_2/)
+[![Resume Preview](https://github.com/LeBryere/simple_but_smart_slider_2/blob/master/preview.jpg)](https://lebryere.github.io/Simple_but_smart_Slider_3/)
 
-**[View Live Preview](https://lebryere.github.io/simple_but_smart_slider_2/)**
+**[View Live Preview](https://lebryere.github.io/Simple_but_smart_Slider_3/)**
 
 ## Status
 
